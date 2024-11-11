@@ -1,2 +1,5 @@
 # minishell
-A shell that mimics bash. Did in collaboration with usmanUA (github).
+A shell that mimics bash. A collab project with usmanUA (github).
+
+
+
