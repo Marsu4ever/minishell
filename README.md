@@ -1,7 +1,7 @@
 # minishell
 A shell that mimics bash. A collab project with usmanUA (github).  
 
-You read that right. This is a recreated bash, it does just about everything our friend bash does.
+You read that right. This is a recreated bash, it does just about everything our dear friend **bash** does.
 
 **How to run**:
 1. Write into terminal - ./minishell  
