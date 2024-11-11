@@ -8,3 +8,4 @@ You read that right. This is a recreated bash, it does just about everything our
 2. Write your favourite (bash) command and watch the magic happen
   f.ex. ls -al, pwd, cd .. etc
 
+![minishell_running_in_terminal](./minishell.png)  
